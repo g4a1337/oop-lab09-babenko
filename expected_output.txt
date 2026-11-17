@@ -1,0 +1,14 @@
+Automatic objects:
+This is class Base
+This is class DerA
+This is class DerB
+This is class DerAB
+Shared Base subobject: yes
+Dynamic objects through Base*:
+This is class Base
+This is class DerA
+This is class DerB
+This is class DerAB
+Dynamic objects deleted: yes
+Live objects after scope: 0
+Self-checks: PASS

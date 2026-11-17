@@ -1,0 +1,10 @@
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.pdb
+actual_output.txt
+.vs/
+.vscode/
