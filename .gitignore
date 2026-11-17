@@ -8,3 +8,6 @@
 actual_output.txt
 .vs/
 .vscode/
+/x64/
+/bin/
+/obj/
